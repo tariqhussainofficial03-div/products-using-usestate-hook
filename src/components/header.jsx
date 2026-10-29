@@ -11,7 +11,7 @@ function Header({products, setProducts}) {
 
   return (
     <div className='w-full h-18 flex justify-between sticky top-0 bg-white shadow-xl '>
-        <div className=' w-[95%] sm:w-[90%] h-full mx-auto flex justify-between items-center'>
+        <div className=' w-[90%] h-full mx-auto flex justify-between items-center'>
 
          <div className='h-full md:w-[10%] sm:w-[12%] lg:w-[9%]'  > 
           <img className='h-full w-full' src={Logo} alt="logo" />

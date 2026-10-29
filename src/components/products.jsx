@@ -148,7 +148,7 @@ else if(getProducts==='Home & Living'){
 
 
   return (
-    <div className="w-[95%] sm:w-[90%] mx-auto  grid sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-4 mb-6">
+    <div className="w-[90%] mx-auto  grid sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-4 mb-6">
         {productItem}
          
     </div>
