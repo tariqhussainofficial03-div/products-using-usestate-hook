@@ -4,7 +4,9 @@ A responsive product showcase built with **React.js, Vite, and Tailwind CSS**. T
  
 ## Live Demo
 
-[View Live Website](YOUR_NETLIFY_URL)
+[View Live Website](## Live Demo
+
+[View Live Website](https://products-using-usestate-hook.netlify.app))
  
 ## Features
 
