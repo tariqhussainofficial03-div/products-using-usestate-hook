@@ -1,6 +1,12 @@
 # Product Showcase
 
 A responsive product showcase built with **React.js, Vite, and Tailwind CSS**. This project focuses on interactive product displays and practicing React's `useState` hook.
+ 
+## Live Demo
+
+[View Live Website](YOUR_NETLIFY_URL)
+
+## Features
 
 ## Features
 
